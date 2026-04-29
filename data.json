@@ -1,0 +1,6 @@
+[
+  {"title": "Python Developer", "skills": ["Python", "Django", "SQL"], "location": "Pune"},
+  {"title": "Backend Developer", "skills": ["Python", "Flask", "MongoDB"], "location": "Pune"},
+  {"title": "Frontend Developer", "skills": ["HTML", "CSS", "JavaScript"], "location": "Mumbai"},
+  {"title": "Data Analyst", "skills": ["Python", "SQL", "Excel"], "location": "Pune"}
+]
